@@ -171,7 +171,7 @@ initMap = function() {
   });
 
   var image = new google.maps.MarkerImage(
-    "../images/marker.png",
+    "./images/marker.png",
     new google.maps.Size(130, 130),
     new google.maps.Point(0, 0),
     new google.maps.Point(22, 32)
